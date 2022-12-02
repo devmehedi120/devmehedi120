@@ -6,7 +6,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: WORDPRESS/PHP/VUE JS / REACT / JS / HTML / CSS
+Skills: WORDPRESS<br>PHP<br>VUE JS <br> REACT<br> JS <br> HTML <br> CSS
 
 - 🔭 I’m currently working on Wordpress Theme Devlopment 
 - 🌱 I’m currently learning Javascript 
